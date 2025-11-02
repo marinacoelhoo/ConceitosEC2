@@ -62,6 +62,7 @@ Ele permite que empresas e desenvolvedores:
 ## 🖼️ Exemplo Visual — Arquitetura com EC2
 
 > Representação simplificada de uma aplicação hospedada na AWS utilizando instâncias EC2:
+> <img src="/Images/Diagrama EC2.png">
 
 **Descrição do Diagrama:**
 - O **usuário** acessa a aplicação via **Load Balancer**;  
